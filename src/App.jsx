@@ -21,7 +21,7 @@ function App() {
           <Route path="/Kelas" element={<KelasPages />} />
         </Routes>
 
-        {/* <FooterComponents /> */}
+        <FooterComponents />
       </div>
     )
 }
